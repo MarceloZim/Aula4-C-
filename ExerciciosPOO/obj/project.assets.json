@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Windows\\C#ZIM\\Aula4\\Aula4\\Aula4.csproj",
-      "projectName": "Aula4",
-      "projectPath": "C:\\Windows\\C#ZIM\\Aula4\\Aula4\\Aula4.csproj",
+      "projectUniqueName": "C:\\Windows\\C#ZIM\\Aula4\\ExerciciosPOO\\ExerciciosPOO.csproj",
+      "projectName": "ExerciciosPOO",
+      "projectPath": "C:\\Windows\\C#ZIM\\Aula4\\ExerciciosPOO\\ExerciciosPOO.csproj",
       "packagesPath": "C:\\Users\\Apex03\\.nuget\\packages\\",
-      "outputPath": "C:\\Windows\\C#ZIM\\Aula4\\Aula4\\obj\\",
+      "outputPath": "C:\\Windows\\C#ZIM\\Aula4\\ExerciciosPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Apex03\\AppData\\Roaming\\NuGet\\NuGet.Config",

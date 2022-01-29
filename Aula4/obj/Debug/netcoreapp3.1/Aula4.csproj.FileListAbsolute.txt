@@ -1,0 +1,14 @@
+C:\Windows\C#ZIM\Aula4\Aula4\bin\Debug\netcoreapp3.1\Aula4.exe
+C:\Windows\C#ZIM\Aula4\Aula4\bin\Debug\netcoreapp3.1\Aula4.deps.json
+C:\Windows\C#ZIM\Aula4\Aula4\bin\Debug\netcoreapp3.1\Aula4.runtimeconfig.json
+C:\Windows\C#ZIM\Aula4\Aula4\bin\Debug\netcoreapp3.1\Aula4.runtimeconfig.dev.json
+C:\Windows\C#ZIM\Aula4\Aula4\bin\Debug\netcoreapp3.1\Aula4.dll
+C:\Windows\C#ZIM\Aula4\Aula4\bin\Debug\netcoreapp3.1\Aula4.pdb
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.csproj.AssemblyReference.cache
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.AssemblyInfoInputs.cache
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.AssemblyInfo.cs
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.csproj.CoreCompileInputs.cache
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.dll
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.pdb
+C:\Windows\C#ZIM\Aula4\Aula4\obj\Debug\netcoreapp3.1\Aula4.genruntimeconfig.cache

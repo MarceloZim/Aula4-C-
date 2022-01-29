@@ -1,0 +1,14 @@
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.exe
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.deps.json
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.runtimeconfig.json
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.runtimeconfig.dev.json
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.dll
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.pdb
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.csproj.AssemblyReference.cache
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.AssemblyInfoInputs.cache
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.AssemblyInfo.cs
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.dll
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.pdb
+C:\Windows\C#ZIM\Aula4\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.genruntimeconfig.cache
